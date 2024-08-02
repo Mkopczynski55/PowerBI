@@ -10,7 +10,7 @@
 - **Tips and Tricks**: Practical tips and best practices for optimizing Power BI reports.
 
 ### Getting Started
-1. **Clone the repository**: `git clone https://github.com/yourusername/powerbi-projects.git`  
+1. **Clone the repository**: `git clone https://github.com/Mkopczynski55/PowerBI.git`  
 2. **Open Power BI Desktop**: Launch Power BI Desktop to access and modify the reports.  
 3. **Load Data**: Connect to your data sources or use the sample data provided.  
 4. **Explore and Customize**: Explore the reports and customize them to fit your needs.
@@ -18,5 +18,3 @@
 ### Contributions
 Contributions are welcome! If you have improvements, new reports, or visualizations you'd like to share, please open an issue or submit a pull request.
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
